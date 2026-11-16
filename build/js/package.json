@@ -1,0 +1,18 @@
+{
+  "name": "NotasAgend",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages\\NotasAgend-shared",
+    "packages\\NotasAgend-shared-test",
+    "packages_imported/skiko-js/0.150.2",
+    "packages_imported/Kotlin-DateTime-library-kotlinx-datetime/0.7.1",
+    "packages_imported/components-resources-js/1.12.2"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "resolutions": {}
+}

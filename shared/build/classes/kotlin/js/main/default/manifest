@@ -1,0 +1,10 @@
+abi_version=2.4.0
+builtins_platform=JS
+compiler_version=2.4.21
+ir_signature_versions=1,2
+jsOutputName=NotasAgend-shared
+language_features=+AllowAnyAsAnActualTypeForExpectInterface +MultiPlatformProjects
+metadata_version=2.4.0
+serializedIrFileFingerprints=jy6q76zilp32.11h9qtdes3mn 6iyoqoh3x669.2qweyns2te3xv 2rt4ziegui2xp.2pv0822yv5pre 2jcj7u3hutxq6.3inxh8mdlpwd7 k4c76tajm9v2.1pzdkvkt7tf3y 3cmolvrdo2t0q.294lbkrqwg6nw mumk6pg35c2q.ofsic6tyj7k3 10vsel47jv3gx.ophi7hcmhgkm 6rhys5co8qs5.2ucdufju7q5hx 24eg47qek3xsi.1xq7de6w9e2b1 32b8r5w9ehm91.34kctvyt9t05o uov5m32bai42.5ryksmwq8ok7
+serializedKlibFingerprint=2bhwn1efvnfg4.1iawjwfcmks4d
+unique_name=NotasAgend\:shared

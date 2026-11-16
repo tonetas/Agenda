@@ -1,0 +1,167 @@
+{
+  "version": "9",
+  "items": {
+    "166f6967fc20d37b051ece8573204fba": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\2.4.21\\27a342f421881f92993d63c359a8779b46d0e060\\kotlin-stdlib-js-2.4.21.klib"
+    },
+    "c0a238209d0c98d8b0146099743c4be2": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-js\\1.12.2\\fa75b677f194c1bfba7f695e4a67fc62356a821b\\runtime-js-1.12.2.klib"
+    },
+    "4828277e398566dd141e7179fea7a32f": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.compose.runtime\\runtime-js\\1.12.1\\6565a149347a581c5650cc6d276160e734bce25f\\runtime-js-1.12.1.klib"
+    },
+    "19211b9948b1b6361fcf50833b32409f": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.collection\\collection-js\\1.5.0\\b43b0c0b846e7ae22232c30c6b93b1784c96da58\\collection-js-1.5.0.klib"
+    },
+    "35b391b0be166771f2d159a773cca411": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation-js\\1.9.1\\6d219a6975564a47194f0158198caef96aa0e9a4\\annotation-js-1.9.1.klib"
+    },
+    "8ffe0cca868057b45b0bc2d4ddd7b27c": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-dom-api-compat\\2.4.21\\fc35ced80b1cc0470ae9ad50f87fc5ee6f10482b\\kotlin-dom-api-compat-2.4.21.klib"
+    },
+    "0d8c9f85517f807a3b5392b8b599700e": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.compose.runtime\\runtime-annotation-js\\1.12.1\\6e849229dc8a642d33fcca77b8c11a4fe7f03554\\runtime-annotation-js-1.12.1.klib"
+    },
+    "fe00ea0c2bc99d3e3ac835959854955c": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.28.0\\cbf2c76fdb710de10596b7660f2a080ff7f51dac\\atomicfu-js-0.28.0.klib"
+    },
+    "7323f2e101d0df459c3ca907e65ee2ca": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.9.0\\155bfdad6f6ebdde0a8049053675623eb3a1e36f\\kotlinx-coroutines-core-js-1.9.0.klib"
+    },
+    "149a100dae14589a2d00720a1bdd6a16": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlinx-atomicfu-runtime\\2.3.20\\2ad14aed781c4a73ed4dbb421966d408a0a06686\\kotlinx-atomicfu-runtime-2.3.20.klib"
+    },
+    "f7aff808241c463da6c9ea8f0843a0b8": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.foundation\\foundation-js\\1.12.2\\1d7f7a234ccb2089fca357b51d7b1ea72fc1fc10\\foundation-js-1.12.2.klib"
+    },
+    "b055163a071986639ca34c91a60cfe50": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.animation\\animation-js\\1.12.2\\89aea41ca26d6d25d9d516a9d22c590308866e88\\animation-js-1.12.2.klib"
+    },
+    "2ac53a8722f3eb72941b40c800f4a75f": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.animation\\animation-core-js\\1.12.2\\4650817c320af66190db2ba0f221f279c3e07ffc\\animation-core-js-1.12.2.klib"
+    },
+    "913c5ae022a1f3eb6bb883683f3b6904": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.collection-internal\\collection-js\\1.10.0\\f09ac548578ad4bc4a0366aac70e17d8141934cd\\collection-js-1.10.0.klib"
+    },
+    "5aea3e1559f8c2a5658c55761c5b5b66": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-js\\1.12.2\\ce6f57f451261eb997850c9fc460f9db6710c672\\ui-js-1.12.2.klib"
+    },
+    "83b2b8b5c95dbb0d9b4720aaed58953a": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.compose.runtime\\runtime-retain-js\\1.12.1\\a325cf898e7c6b7d8c35055195acb52cddc5912\\runtime-retain-js-1.12.1.klib"
+    },
+    "a4e4c27a68662b57962bfc45386cc231": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-compose-js\\2.11.0\\30857387a1b8d6c21b64b6ce7b48c7e8afd2bd7e\\lifecycle-viewmodel-compose-js-2.11.0.klib"
+    },
+    "b825f2182f4c3eaf70865b7c22db8133": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.compose.runtime\\runtime-saveable-js\\1.12.1\\2270b68697384d4ffcfaf036af91b37b812031ef\\runtime-saveable-js-1.12.1.klib"
+    },
+    "46f1cca9e6136b5a0d31bf3f7b8a367b": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-runtime-compose-js\\2.11.0\\74178b2913d3d2e0569c01bcf09d9e87b0222c2d\\lifecycle-runtime-compose-js-2.11.0.klib"
+    },
+    "cb000d9f84e050fb22fd938ac60fb547": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-runtime-js\\2.11.0\\3b8e6c1ff8817e103afe450aa192d0518a6b7646\\lifecycle-runtime-js-2.11.0.klib"
+    },
+    "4a53616c93afb0334024ea0ced69c3ab": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-common-js\\2.11.0\\58d46d55f758c06538afd381b29fa2bfbf93cc75\\lifecycle-common-js-2.11.0.klib"
+    },
+    "eb5ebb30af9f3311faaf1b05ad3092c9": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.savedstate\\savedstate-compose-js\\1.4.0\\14a4bed16b2584c10411ea4d901fd966286aee71\\savedstate-compose-js-1.4.0.klib"
+    },
+    "1d10c18bae145329ec135f3fbcdf4f2a": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.savedstate\\savedstate-js\\1.4.0\\1e37406e76a818fdd9729894f90c010d70c092a\\savedstate-js-1.4.0.klib"
+    },
+    "5ba9660c3ffb77bd50c286cc40b89beb": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-serialization-core-js\\1.7.3\\566909fa3fcb9d24bf9414499c4d19fa87d6df1\\kotlinx-serialization-core-js-1.7.3.klib"
+    },
+    "3101e9d210e8e38f7d9da114aa5ad2bc": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-js\\2.11.0\\bc45cbc41f7537a71636d5e4e0713acf78f7829c\\lifecycle-viewmodel-js-2.11.0.klib"
+    },
+    "942bfe1a72ba4132e0728b326410644d": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-savedstate-js\\2.11.0\\688d145c475e6487bf6b6681220ecd733fc98438\\lifecycle-viewmodel-savedstate-js-2.11.0.klib"
+    },
+    "de765c63cd4d4858747ae1402d562011": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-runtime-compose-js\\2.9.6\\3caa24784bc6f72790515eaffad38a0af00627cc\\lifecycle-runtime-compose-js-2.9.6.klib"
+    },
+    "f9ec7031a3387de83dc76c35dfe1c459": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-common-js\\2.9.6\\1924c0ebacbe45725cbb29cdc7276d993adedfca\\lifecycle-common-js-2.9.6.klib"
+    },
+    "6f40d0cdcd19a969a1bbee4b366c935c": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-runtime-js\\2.9.6\\3b13e9612371881ccba349b4c002e254740217ac\\lifecycle-runtime-js-2.9.6.klib"
+    },
+    "c8ce9a41401465857bdf0c81ded20402": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-js\\2.9.6\\bc3715c02ab0bf2387822a4d5420d795395c72b3\\lifecycle-viewmodel-js-2.9.6.klib"
+    },
+    "6bbc2a630a4ceb7e6a3998a55a8f2bb7": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-savedstate-js\\2.9.6\\57369a7455ea505e006edc80bfc68577e512c1e\\lifecycle-viewmodel-savedstate-js-2.9.6.klib"
+    },
+    "964e47a00367bdcc7d59188a519554ad": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.savedstate\\savedstate-js\\1.3.6\\8b8d02c15e2bab2cda97b2cf72d805d395110b8f\\savedstate-js-1.3.6.klib"
+    },
+    "b0a6ee9e209d124c0faec8e141856a07": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigationevent\\navigationevent-compose-js\\1.1.0\\9e10fb3612ac65340ca7300d111fb5ec1e08797f\\navigationevent-compose-js-1.1.0.klib"
+    },
+    "61b9777a5642f044184e71faa7f2fb53": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.navigationevent\\navigationevent-compose-js\\1.1.1\\84a353d54685b60b715203a3ef6ad4b7c9cc7afa\\navigationevent-compose-js-1.1.1.klib"
+    },
+    "eb3b5f75af8eff2b4bf3aca5d6470c8a": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.navigationevent\\navigationevent-js\\1.1.1\\161e6154b63ec74e03dab7afa1ed2061c63417cf\\navigationevent-js-1.1.1.klib"
+    },
+    "638903515793328cf2d4a49104e91b05": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.annotation-internal\\annotation-js\\1.10.0\\bca113ca1e9e845a37e33a75513e1761ce20790e\\annotation-js-1.10.0.klib"
+    },
+    "cd2bcb164e4e4cf1842e90abd54e6c36": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-saveable-js\\1.12.2\\ea2002c3743b08dd390176bdb5538ff59c0b4740\\runtime-saveable-js-1.12.2.klib"
+    },
+    "096aef590e79eeebcd260c6058cd1534": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.savedstate\\savedstate-compose-js\\1.3.6\\4919018ad4541adbab719a58e4c96aecfd65c9b6\\savedstate-compose-js-1.3.6.klib"
+    },
+    "58c874018760dad7aaa7c35581a8ad22": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-backhandler-js\\1.12.2\\1ef4bf780d773606086593f5e16c48bf8b5ee2bd\\ui-backhandler-js-1.12.2.klib"
+    },
+    "45e610fda532984bd43adbe6393b7dc0": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-util-js\\1.12.2\\522d65929d7747fd478d5f5e273945f790a04adb\\ui-util-js-1.12.2.klib"
+    },
+    "d014342f915f464e73dc96bf46dbed31": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-geometry-js\\1.12.2\\a75db0067f8506cd1476d08e4dc6e213648ef98c\\ui-geometry-js-1.12.2.klib"
+    },
+    "0dc9377c3729589494772864b8e573a6": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-graphics-js\\1.12.2\\d73a104785515b33f72eb9e9f25fb29c8988cb1\\ui-graphics-js-1.12.2.klib"
+    },
+    "1c5aecbe0223e66f6189bda336d51ac1": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-unit-js\\1.12.2\\450f58cce21d94abd5cf5c5d0b0554c631624b11\\ui-unit-js-1.12.2.klib"
+    },
+    "0f690d72046b6631042bdd9e671b2360": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.skiko\\skiko-js\\0.150.2\\ca0eeb9f56b9cbd82bfca71c6b396490aecbc1f0\\skiko-js-0.150.2.klib",
+      "target": "skiko-js\\0.150.2"
+    },
+    "6691bd4d13b2b8780c20782a79daa004": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-browser-js\\0.5.0\\a4fafe363554c7fb812df4eecc959a8d7c1b12eb\\kotlinx-browser-js-0.5.0.klib"
+    },
+    "ceec4ef2317c82d75a2744bc2275e014": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-text-js\\1.12.2\\b6458972185bb5845c5242ca6bc04bf9610f3b76\\ui-text-js-1.12.2.klib"
+    },
+    "996b8222d91a9eb446682635964e4746": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.foundation\\foundation-layout-js\\1.12.2\\8b8185c4bb75c1edc612fcd635a34fe5ccd51f1e\\foundation-layout-js-1.12.2.klib"
+    },
+    "7f5b4d86839558764229ceed2196bfb0": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material3\\material3-js\\1.12.0-alpha03\\6b4e3ea067879ec2756a6ab51028e53b606cb2b6\\material3-js-1.12.0-alpha03.klib"
+    },
+    "410cc44881297a98c8026c02387b33c3": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\androidx.graphics\\graphics-shapes-js\\1.1.0\\58cf2639371c54146d1a77034bbd2706c914e85d\\graphics-shapes-js-1.1.0.klib"
+    },
+    "908545c78c3e79face66162185e1747d": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material\\material-ripple-js\\1.12.0-beta01\\80e814c10d477f21e4759c8647187434c8977d75\\material-ripple-js-1.12.0-beta01.klib"
+    },
+    "de0de2ffceaa8721b52562a3e92f9946": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-datetime-js\\0.7.1\\35e8f24ceaafafd34feebcc18aa728c1bfce582e\\kotlinx-datetime-js-0.7.1.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime\\0.7.1"
+    },
+    "35f403d382553b62e5ccba59a5ae2321": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.components\\components-resources-js\\1.12.2\\41c3f82470edee3c08481307d5b649c0cb1edfd8\\library-js-1.12.2.klib",
+      "target": "components-resources-js\\1.12.2"
+    },
+    "d421683bc06aeba36e6438e3f65466c7": {
+      "src": "C:\\Users\\Antonio\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-tooling-preview-js\\1.12.2\\92f65d80a4db4cb45c6501306f4457d716fead7a\\ui-tooling-preview-js-1.12.2.klib"
+    }
+  }
+}

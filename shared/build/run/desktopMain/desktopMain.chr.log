@@ -1,0 +1,21 @@
+ | 19:29:03.246 | DevTools | Info  | RecompilerKt | Recompiler | Running 'Gradle'...
+ | 19:29:05.669 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Starting a Gradle Daemon, 1 busy and 1 stopped Daemons could not be reused, use --status for details
+ | 19:29:18.068 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Calculating task graph as no cached configuration is available for tasks: :shared:hotReloadDesktopMain
+ | 19:29:23.667 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Type-safe project accessors is an incubating feature.
+ | 19:29:40.142 | App      | Info  | ResolveDirtyKt | Compose Runtime Analyzer
+    | Resolved 'dirty' @Composable scopes within 1.870600ms
+    |   ~ No @Composable is dirty
+    | 
+ | 19:29:40.567 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 
+ | 19:29:40.567 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | [Incubating] Problems report is available at: file:///C:/Users/Antonio/Documents/NotasAgend/build/reports/problems/problems-report.html
+ | 19:29:40.567 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 
+ | 19:29:40.567 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+ | 19:29:40.567 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 
+ | 19:29:40.568 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+ | 19:29:40.568 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 
+ | 19:29:40.568 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | For more on this, please refer to https://docs.gradle.org/9.8.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+ | 19:29:40.568 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 
+ | 19:29:40.568 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | BUILD SUCCESSFUL in 36s
+ | 19:29:40.568 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | 13 actionable tasks: 3 executed, 10 up-to-date
+ | 19:29:40.668 | Build    | Info  | Gradle | DefaultDispatcher-worker-1 | Configuration cache entry stored.
+ | 19:29:46.121 | App      | Info  | OrchestrationKt | Thread-1 | Hot Reload Agent is shutting down
